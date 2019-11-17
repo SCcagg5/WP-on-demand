@@ -5,7 +5,7 @@ curl https://get.docker.com/ -o docker.sh > /dev/null
 bash docker.sh > /dev/null
 rm docker.sh > /dev/null
 apt-get install docker-compose -y > /dev/null
-cp ~/sources_wp_multi/project/nginx ~/nginx -r
+cp ~/sources_wp_multi/project/nginx ~/nginx -R
 cd ~/nginx
 docker-compose up -d
 cd -
