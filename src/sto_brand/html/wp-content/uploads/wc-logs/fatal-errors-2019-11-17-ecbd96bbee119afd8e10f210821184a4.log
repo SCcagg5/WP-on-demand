@@ -1,0 +1,4 @@
+2019-11-17T14:21:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans /var/www/html/wp-includes/class-wp-image-editor-gd.php à la ligne 189
+
+2019-11-17T14:22:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans /var/www/html/wp-includes/class-wp-image-editor-gd.php à la ligne 189
+
